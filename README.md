@@ -1,0 +1,2 @@
+# Jumpman-New-Market-Analysis
+Jumpman is an on-demand delivery platform connecting deliver man and customers purchasing a variety of goods. The platform will send deliver man to merchants to purchase and pickup any items requested by the customer. Jumpman just launched in its newest market – NYC. By analyzing on delivery records data, I need to present to both the CEO and CTO on “how are things going in New York” and provide insights.
